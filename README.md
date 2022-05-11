@@ -1,9 +1,9 @@
 # K_means and pam Clustering
  
-This repository contains k-means algothrim and k-mediod algothrim for clustering, and a evaluation metrics for contigency matrix and adjusted rand index for evaluating the algothrim.
+This repository contains k-means and k-mediod algorithms for clustering, and a evaluation metrics for contigency matrix and adjusted rand index for evaluating the algorithm.
 
-## Test Algothrims
-Both algothrims are tested under stimulation experiment：
+## Test Algorithms
+Both algorithms are tested under stimulation experiment：
 
 60 data points are sampled form the following distributions each with random seed 20
 
@@ -11,7 +11,7 @@ Both algothrims are tested under stimulation experiment：
 
 to then concantenate these points sequentially to form a sample of size  180.
 
-Fit both algothrims with the stimulated data, the resaults are:
+Fit both algorithms with the stimulated data, the resaults are:
 k_means method acheive a ARS of 0.783 and the plot
 
 
@@ -26,6 +26,6 @@ pam method acheive a ARS of 0.743 with parameter p=2 and the plot
 
 All data used for testing are under folder ref_data 
 
- sim.csv - stimulated data 
- 
- sim_labels.csv - stimulated labels 
+  sim.csv - stimulated data 
+  
+  sim_labels.csv - stimulated labels 
