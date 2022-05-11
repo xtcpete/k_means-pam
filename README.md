@@ -6,7 +6,7 @@ This repository contains k-means algothrim and k-mediod algothrim for clustering
 Both algothrims are tested under stimulation experiment：
 
 60 data points are sampled form the following distributions each
-$$ X_1\sim N\bigg(\begin{pmatrix}
+$ X_1\sim N\bigg(\begin{pmatrix}
 0\\
 0\end{pmatrix},\begin{pmatrix}
 1 & 0\\
@@ -19,4 +19,4 @@ $$ X_1\sim N\bigg(\begin{pmatrix}
 5\\
 0\end{pmatrix},\begin{pmatrix}
 2 & 1\\
-1 & 1 \end{pmatrix}\bigg) $$
+1 & 1 \end{pmatrix}\bigg) $
