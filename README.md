@@ -24,6 +24,8 @@ pam method acheive a ARS of 0.743 with parameter p=2 and the plot
 ![image](https://user-images.githubusercontent.com/47229849/167925970-1c405b18-4133-4914-87f1-33aa8d3d8ba3.png)
 
 
-All data used for testing are under folder ref_data \n
- sim.csv - stimulated data \n
- sim_labels.csv - stimulated labels \n
+All data used for testing are under folder ref_data 
+
+ sim.csv - stimulated data 
+ 
+ sim_labels.csv - stimulated labels 
