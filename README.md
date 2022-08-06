@@ -12,13 +12,13 @@ Both algorithms are tested under stimulation experiment：
 to then concantenate these points sequentially to form a sample of size  180.
 
 Fit both algorithms with the stimulated data, the resaults are:
-k_means method acheive a ARS of 0.783 and the plot
+k_means method acheive an ARS of 0.783
 
 
 ![image](https://user-images.githubusercontent.com/47229849/167925782-e5b10f2c-76de-4699-bf0e-f36217fae4f9.png)
 
 
-pam method acheive a ARS of 0.743 with parameter p=2 and the plot
+pam method acheive an ARS of 0.743 with parameter p=2
 
 
 ![image](https://user-images.githubusercontent.com/47229849/167925970-1c405b18-4133-4914-87f1-33aa8d3d8ba3.png)
