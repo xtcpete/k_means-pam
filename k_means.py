@@ -106,6 +106,9 @@ class k_means:
         self.k = k
 
     def predict(self, pt):
+        """
+        return the predicted label of input point
+        """
         distances = [np.linalg.norm(pt - c) for c in self.centers]
         cluster_label = distances.index(min(distances))
         return cluster_label
