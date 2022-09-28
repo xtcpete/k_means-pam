@@ -1,6 +1,6 @@
 # K_means and pam Clustering
  
-This repository contains k-means and k-mediod algorithms for clustering, and a evaluation metrics for contigency matrix and adjusted rand index for evaluating the algorithm.
+This repository contains k-means and k-mediod algorithms for clustering, and a evaluation metrics for contingency matrix and adjusted rand index for evaluating the algorithm.
 
 ## Test Algorithms
 Both algorithms are tested under stimulation experiment：
