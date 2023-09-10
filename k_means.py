@@ -40,7 +40,7 @@ class k_means:
             self.centers = self.data[:self.k, :]
 
         elif method == 1:
-            np.random.seed(20)
+            np.random.seed(self.seed)
             self.centers = self.data[np.random.choice(len(self.data), self.k, replace=False)]
 
     def search(self):
